@@ -78,12 +78,12 @@ div.campo > input{
     background-color: #8ae2d9fb;
     font-size:1em;
     width:calc(100% - 41px);
-    margin-left: 40px;
-    height: 100%;
+    margin-left: 39px;
+    height: 90%;
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-42px);
+    transform: translateY(-40px);
 }
 
 div.campo >input:hover{
